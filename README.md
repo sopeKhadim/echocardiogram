@@ -7,7 +7,7 @@ Email : limahin10@gmail.com
 
 ## Description :
 
-The objective of this practical exercise is to predict if a patient survive for over a year after suffering at least one heart attack. The dataset provide by Steven Salzberg (UCI Echocardiogram) have 13 variables measured from 132 patients.
+The objective of this practical exercise is to predict if a patient survive for over a year after suffering at least one heart attack. The dataset provide by Steven Salzberg ([UCI Echocardiogram](https://archive.ics.uci.edu/ml/datasets/echocardiogram)) have 13 variables measured from 132 patients.
 
 ## Installation.
 The notebook is in the notebook folder.
