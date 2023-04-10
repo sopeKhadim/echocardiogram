@@ -1,8 +1,11 @@
 # Modeling test - Echocardiogram
 
 Author : Djibril MBOUP
+
 Version : 1.0
+
 Last modified : 09/04/2023
+
 Email : limahin10@gmail.com
 
 ## Description :
