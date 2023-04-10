@@ -3,6 +3,7 @@
 Author : Djibril MBOUP
 Version : 1.0
 Last modified : 09/04/2023
+Email : limahin10@gmail.com
 
 ## Description :
 
@@ -13,7 +14,8 @@ The notebook is in the notebook folder.
 Before running the project, you need to install a new python environment with the command.
 - `conda create -n env python=3.10`
 - `pip install -r requirements_dev.txt`
-Go to the notebooks directory and start notebook with
+Go to the notebooks directory and start notebook:
+- `cd notebooks`
 - `jupyter lab`
 
 
